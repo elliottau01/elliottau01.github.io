@@ -4,19 +4,25 @@ title: Elliott And His World
 theme: PaperMod
 
 params:
-  homeInfoParams:
-    Title: "Hello!"
-    Content: Welcome to my blog!
+  # homeInfoParams:
+  #   Title: "Hello!"
+  #   Content: Welcome to my blog!
+  profileMode:
+    enabled: true
+    title: "<Title>" # optional default will be site title
+    subtitle: "Hello! Welcome to my blog!"
+    imageUrl: "img/icon.png" # optional
+    imageTitle: "<title of image as alt>" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+
   socialIcons:
-      - name: instagram
-        url: 'https://www.instagram.com/eli_ayl/'
-      - name: linkedin
-        url: 'https://www.linkedin.com/in/eliau'
-      - name: github
-        url: 'https://github.com/elliottau01'
-
-
-
+    - name: instagram
+      url: 'https://www.instagram.com/eli_ayl/'
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/eliau'
+    - name: github
+      url: 'https://github.com/elliottau01'
 
 
   cover:
@@ -36,17 +42,22 @@ menu:
       url: /about/
       weight: 10
 
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 20
+
     - identifier: categories
       name: Categories
       url: /categories/
-      weight: 20
+      weight: 30
 
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 30
+      weight: 40
 
     - identifier: archives
       name: Archives
       url: /archives/
-      weight: 40
+      weight: 50
