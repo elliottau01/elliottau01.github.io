@@ -1,0 +1,3 @@
+# About Me
+
+Hi, I'm Elliott Au, currently studying Statistics at the University of British Columbia (UBC) in Vancouver, BC. I have a strong passion for applied mathematics, statistics, computer science, economics and data science. Outside of academics, I relish hiking in the stunning landscapes of North Vancouver with family and friends. Being originally from Hong Kong, where British football is widely enjoyed, I'm an avid Premier League follower. In my downtime, you'll often find me immersed in FPS gaming, particularly Counter-Strike and Battlefield. Proudly holding dual citizenship of both Canada and Hong Kong SAR, I embrace the richness of both cultures.
