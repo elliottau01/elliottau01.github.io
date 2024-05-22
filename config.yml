@@ -29,11 +29,13 @@ params:
   cover:
     linkFullImages: true
 
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
 
   ShowReadingTime: true
 
   ShowPostNavLinks: true
+
+  ShowToc: true
 
 
 menu:
@@ -63,7 +65,13 @@ menu:
       url: /archives/
       weight: 50
 
+    
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 60
+
     - identifier: cv
       name: CV
       url: https://drive.google.com/file/d/1ca2rAsJFnvm2VJ_GfjB6o3HZzStWPoj2/view?usp=sharing
-      weight: 60
+      weight: 70
