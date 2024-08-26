@@ -45,33 +45,38 @@ menu:
       url: /about/
       weight: 10
 
+    - identifier: project
+      name: Project
+      url: /project/
+      weight: 20
+
     - identifier: posts
       name: Posts
       url: /posts/
-      weight: 20
+      weight: 30
 
     - identifier: categories
       name: Categories
       url: /categories/
-      weight: 30
+      weight: 40
 
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 40
+      weight: 50
 
     - identifier: archives
       name: Archives
       url: /archives/
-      weight: 50
+      weight: 60
 
     
     - identifier: contact
       name: Contact
       url: /contact/
-      weight: 60
+      weight: 70
 
     - identifier: cv
       name: CV
       url: https://drive.google.com/file/d/1ca2rAsJFnvm2VJ_GfjB6o3HZzStWPoj2/view?usp=sharing
-      weight: 70
+      weight: 80
