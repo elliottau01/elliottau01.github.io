@@ -45,9 +45,9 @@ menu:
       url: /about/
       weight: 10
 
-    - identifier: project
-      name: Project
-      url: /project/
+    - identifier: projects
+      name: Projects
+      url: /projects/
       weight: 20
 
     - identifier: posts
