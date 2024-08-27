@@ -27,7 +27,7 @@ params:
 
 
   cover:
-    linkFullImages: true
+    linkFullImages: false
 
   ShowBreadCrumbs: false
 
