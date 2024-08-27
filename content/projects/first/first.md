@@ -5,4 +5,5 @@ draft: false
 
 Github link: https://github.com/elliottau01/dscigroup91project.git
 
-![elearn](/elearn1.jpeg)
+![elearn1](../first/elearn1.jpeg)
+
