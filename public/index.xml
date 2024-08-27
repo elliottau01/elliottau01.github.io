@@ -13,7 +13,7 @@
       <link>http://localhost:1313/elliottau01/elliottau01.github.io/projects/first/</link>
       <pubDate>Wed, 08 May 2024 23:15:13 +0800</pubDate>
       <guid>http://localhost:1313/elliottau01/elliottau01.github.io/projects/first/</guid>
-      <description> </description>
+      <description>Github link: https://github.com/elliottau01/dscigroup91project.git</description>
     </item>
     <item>
       <title>My First Post</title>
@@ -42,6 +42,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/elliottau01/elliottau01.github.io/contact/</guid>
       <description>Contact Email 📧 : elliott.au00@gmail.com Linkedin: https://www.linkedin.com/in/eliau/</description>
+    </item>
+    <item>
+      <title>Job Search Recorder</title>
+      <link>http://localhost:1313/elliottau01/elliottau01.github.io/projects/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/elliottau01/elliottau01.github.io/projects/second/</guid>
+      <description>Github link: https://github.com/elliottau01/CPSC210Project.git</description>
     </item>
   </channel>
 </rss>
